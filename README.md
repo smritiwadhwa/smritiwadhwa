@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smritiwadhwa
-- 👀 I’m interested in full-stack development and animation.
+- 👀 I’m interested in full-stack development, UI/UX design, and animation.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me: smritiwadhwa4@gmail.com
 
